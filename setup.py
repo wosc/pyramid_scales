@@ -28,7 +28,7 @@ setup(
     author='Wolfgang Schnerring <ws@gocept.com>',
     author_email='ws@gocept.com',
     license='BSD',
-    url='https://github.com/wosc/pyramid_scales/',
+    url='https://bitbucket.org/wosc/pyramid_scales',
 
     keywords='',
     description=__doc__.strip(),

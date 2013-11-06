@@ -6,10 +6,10 @@ Developing pyramid_scales
     Wolfgang Schnerring <ws@gocept.com>
 
 :PyPI page:
-    http://pypi.python.org/pypi/pyramid_scales/
+    https://pypi.python.org/pypi/pyramid_scales
 
 :Issues:
-    `report by e-mail to <ws@gocept.com>`_
+    `report via e-mail <ws@gocept.com>`_
 
 :Source code:
-    https://github.com/wosc/pyramid_scales/
+    https://bitbucket.org/wosc/pyramid_scales
