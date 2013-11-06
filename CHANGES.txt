@@ -1,0 +1,8 @@
+=============================
+Change log for pyramid_scales
+=============================
+
+1.0 (unreleased)
+================
+
+initial release
