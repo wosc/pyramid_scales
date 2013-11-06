@@ -15,11 +15,13 @@ setup(
     install_requires=[
         'scales',
         'setuptools',
-        'pyramid',
     ],
 
     extras_require={
         'test': [
+            'pyramid',
+            'pytest',
+            'webtest',
         ],
     },
 

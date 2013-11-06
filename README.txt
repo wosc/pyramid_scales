@@ -22,7 +22,8 @@ This registeres a view below the URL ``/scales`` where you can view your
 application's metrics. If you need more control, register the
 ``pyramid_scales.scales_stats`` view yourself in whichever way you need.
 
-This package is compatible with Python version 2.7 and 3.3.
+This package is compatible with Python version 2.7 (scales itself does not
+support Python3 yet, so there's no point here).
 
 
 .. _`scales`: https://github.com/Cue/scales
