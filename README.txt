@@ -4,6 +4,9 @@ pyramid_scales
 
 .. pandoc -f rst -t markdown -o README.md README.txt
 
+.. image:: https://travis-ci.org/wosc/pyramid_scales.png
+   :target: https://travis-ci.org/wosc/pyramid_scales
+
 The excellent `scales`_ library to collect in-process metrics (see Coda Hale’s
 CodeConf talk "`Metrics everywhere`_" among many others for reasons why you
 might want use it) comes with a `flask`_-based HTTP server that allows viewing

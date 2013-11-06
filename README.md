@@ -1,6 +1,8 @@
 pyramid\_scales
 ===============
 
+[![image](https://travis-ci.org/wosc/pyramid_scales.png)](https://travis-ci.org/wosc/pyramid_scales)
+
 The excellent [scales](https://github.com/Cue/scales) library to collect
 in-process metrics (see Coda Hale’s CodeConf talk "[Metrics
 everywhere](http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf)"
