@@ -21,7 +21,7 @@ Instead, you can simply include `pyramid_scales` like so:
     # rest of your configuration goes here
     config.include('pyramid_scales')
 
-This registeres a view below the URL `/scales` where you can view your
+This registeres a view below the URL `/scales/` where you can view your
 application's metrics. If you need more control, register the
 `pyramid_scales.scales_stats` view yourself in whichever way you need.
 
