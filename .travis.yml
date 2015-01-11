@@ -9,4 +9,4 @@ script:
 notifications:
   email:
     recipients:
-      - ws@gocept.com
+      - wosc@wosc.de
