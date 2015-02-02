@@ -1,3 +1,5 @@
+from __future__ import absolute_import, division, print_function
+
 from greplin import scales
 import json
 import pyramid.config
@@ -27,9 +29,10 @@ def browser(app):
 def test_displays_metrics_as_html(browser):
     r = browser.get('/scales/', status=200)
     assert (
-        '<span class="key">errors</span> <span class="int">1</span>' in r.body)
+        b'<span class="key">errors</span> <span class="int">1</span>'
+        in r.body)
 
 
 def test_displays_metrics_as_json(browser):
     r = browser.get('/scales/?format=json', status=200)
-    assert {'errors': 1} == json.loads(r.body)['']
+    assert {'errors': 1} == json.loads(r.body.decode("ascii"))['']

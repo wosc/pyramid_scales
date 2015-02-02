@@ -1,4 +1,10 @@
-from StringIO import StringIO
+from __future__ import absolute_import, division, print_function
+
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
+
 import greplin.scales
 import greplin.scales.formats
 import greplin.scales.util
