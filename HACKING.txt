@@ -3,7 +3,7 @@ Developing pyramid_scales
 =========================
 
 :Author:
-    Wolfgang Schnerring <ws@gocept.com>
+    Wolfgang Schnerring <wosc@wosc.de>
 
 :PyPI page:
     https://pypi.python.org/pypi/pyramid_scales
@@ -12,4 +12,4 @@ Developing pyramid_scales
     `report via e-mail <ws@gocept.com>`_
 
 :Source code:
-    https://bitbucket.org/wosc/pyramid_scales
+    https://bitbucket.com/wosc/pyramid_scales
