@@ -9,7 +9,7 @@ Developing pyramid_scales
     https://pypi.python.org/pypi/pyramid_scales
 
 :Issues:
-    `report via e-mail <ws@gocept.com>`_
+    `report via e-mail <wosc@wosc.de>`_
 
 :Source code:
-    https://bitbucket.com/wosc/pyramid_scales
+    https://github.com/wosc/pyramid_scales
