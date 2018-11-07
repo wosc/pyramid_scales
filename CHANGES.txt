@@ -2,8 +2,8 @@
 Change log for pyramid_scales
 =============================
 
-1.2 (unreleased)
-================
+1.1.1 (2018-11-07)
+==================
 
 - Make current-setuptools compatible
 

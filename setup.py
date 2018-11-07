@@ -5,7 +5,7 @@ import glob
 
 setup(
     name='pyramid_scales',
-    version='1.2.dev0',
+    version='1.1.1',
 
     install_requires=[
         'scales',
