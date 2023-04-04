@@ -1,7 +1,7 @@
 pyramid\_scales
 ===============
 
-[![image](https://travis-ci.org/wosc/pyramid_scales.png)](https://travis-ci.org/wosc/pyramid_scales)
+**ABANDONED** Use https://pypi.org/project/prometheus-client/ instead
 
 The excellent [scales](https://github.com/Cue/scales) library to collect
 in-process metrics (see Coda Hale’s CodeConf talk "[Metrics
